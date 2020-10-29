@@ -9,7 +9,7 @@ export default class FreeDocument extends Document {
       padding: 0,
       margin: 0,
       fontFamily: '-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
-      fontSize: '24px',
+      fontSize: '22px',
       background: '#080808',
       color: 'white',
       lineHeight: '1.4',
