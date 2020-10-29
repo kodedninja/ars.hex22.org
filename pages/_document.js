@@ -29,7 +29,7 @@ export default class FreeDocument extends Document {
 
   render() {
     return (
-      <html lang="en" className={this.props.htmlCss}>
+      <html lang="hu" className={this.props.htmlCss}>
         <FreeHead>
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
           <style

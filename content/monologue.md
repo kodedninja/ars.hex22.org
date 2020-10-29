@@ -1,20 +1,20 @@
-[0x22](/) is at the same time the name and the system of symbols of my artistic movements. It's the system of those metaphors, images and feelings that resulted in the same art - an art that's personal from its impersonality - in my poetry and in the music I write, nay even in the images in my dreams and trips. If I would have to choose, I would say poetry is at the center of all my thinking, since I work like a poet even while making music, and all the songs I compose are just as much poems or verses as the texts I write. This site tries to bring this artist closer to my other self, the one that is bound to the space of logic. An uncomfortably personal space, spreading across the languages I use; the monolith of my artistic self on the internet, ["In place of an ars poetica"](https://mek.oszk.hu/01000/01016/01016.htm#h2_9).
+[0x22](/) egyszerre neve és objektumrendszere művészi mozgásaimnak. Azon metaforák, képek és érzések rendszere, amelyek az elmúlt évek alatt ugyanazt a személytelenségtől személyes művészetet eredményezték mind versben, mind zenében, sőt a képeket is az álmaimban és tripjeimben. Ha választanom kéne, a verset mondanám művészetem alapjának, hiszen költőként zenélek és zenéim pont annyira versek és verssorok, mint szövegeim. Ez az oldal ezt a művészt próbálja közelebb hozni a logika terében tevékenykedő énemhez. Egy locsogásig személyes oldal, művész énem internetes monolitja, ["Ars poetica helyett"](https://mek.oszk.hu/01000/01016/01016.htm#h2_9).
 
-After my early writings, the last few years were spent with a silent period of work, in which the creations shaped each other and said system, just like the tide shapes a river delta resting in the sunset. The poems are read only by a few, the sounds are listened to only by a few, but day after day they go through a slow, calm and precise workflow.
-
-<div class="pb1"></div>
-
-"Where distances collapse into muteness"
-
-Landscapes, mountains, a sea, a river delta and light. Time, the horizon of the moment and the gravity of the past. The yesterdays. Seeing her through noise and gloom.
-
-This chapter began when I stopped writing about the past and started staring at spaces where yesterday happens again and again in the now. The thoughts, themes and addressees of the poems got washed together, almost like all I write would be the permutation of a single moment. In the music I hear the winter nights of the city and the noisy, gray breathing of solitude, but the very same images from my poetry also appear from time to time. This landscape I've found myself in is psychedelic, a bit impressionist and so personal that sometimes I feel like I'm binding my soul to a rock next to Prometheus'.
-
-I trust my present and that it'll lead to a book of poetry and to an album long stream of music.
+A kezdeti impulzus-alkotások után, az elmúlt néhány év egy csendes munkaperiódust foglal magába, amelyben a versek és a zenei kísérletek úgy formálták egymást és az említett objektumrendszert, mint az árapály egy naplementében nyugvó deltát. A verseket kevesen látják, a hangokat kevesen hallják, de nap mint nap egy lassú, nyugodt és precíz munkafolyamaton mennek végig.
 
 <div class="pb1"></div>
 
-zaj / noise
+"Ahol a távolságok némaságba omlanak"
+
+Tájak, hegyek, egy tenger, egy delta és fény. Az idő, a pillanat horizontja és a múlt gravitációja. A tegnapok. Zajon és homályon át látni őt a fényben.
+
+Ez a korszak akkor kezdődött, amikor felhagytam a múltról írással és azokban a terekben kezdtem el nézelődni, ahol a tegnap újra és újra megtörténik a mostban. A versek gondolatai, témái és megszólítottjai a munka során összemosódtak, mintha minden egyetlen pillanat permutációja lenne. A zenében egyszerre hallom a téli város éjszakáját és a magány zajos, szürke légzését, de megjelennek ugyan azok a képek amelyek a versekben is. Ez a táj pszichedelikus, kissé impresszionista és annyira személyes, hogy néha úgy érzem a lelkem ott feszül a sziklán Prométheusz árnyéka mellett.
+
+Bízom a jelenben és, hogy néhány év múlva egy kötethez és egy albumnyi zenéhez vezet majd.
+
+<div class="pb1"></div>
+
+zaj
 
 átlátsz a töredékek vánszorgó, időtlen zaján,
 feléd mutató vektorokon a sötét

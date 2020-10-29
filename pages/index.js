@@ -1,8 +1,8 @@
 import Head from 'next/head'
-import Monologue from '../components/monologue'
 import cxs from 'cxs'
+import Monologue from '../components/monologue'
 import { getContent } from '../lib/content.js'
-
+import Footer from '../components/footer'
 
 // Using cxs on both the server and client,
 // the styles will need to be rehydrated.
@@ -22,11 +22,7 @@ export default function Home({ content }) {
       <main>
         <Monologue content={content['monologue.md'].html}/>
       </main>
-      <footer className={cxs({ paddingTop: '2.0rem' })}>
-        <a href="https://hex22.org" className={cxs({ marginRight: '2.0rem' })}>Website</a>
-        <a href="https://0x22.bandcamp.com" className={cxs({ marginRight: '2.0rem' })}>Bandcamp</a>
-        <a href="https://soundcloud.com/0x22" className={cxs({ marginRight: '2.0rem' })}>Soundcloud</a>
-      </footer>
+      <Footer />
     </div>
   )
 }
