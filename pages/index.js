@@ -21,8 +21,8 @@ export default function Home({ content }) {
         <meta property="og:title" content="0x22" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="og:card" content="summary_large_image" />
-        <meta name="twitter:image" content="/images/banner.jpg" />
-        <meta property="og:image" content="/images/banner.jpg" />
+        <meta name="twitter:image" content="https://ars.hex22.org/images/banner.jpg" />
+        <meta property="og:image" content="https://ars.hex22.org/images/banner.jpg" />
       </Head>
       <main>
         <Monologue content={content['monologue.md'].html}/>
