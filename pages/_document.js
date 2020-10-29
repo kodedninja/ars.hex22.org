@@ -17,8 +17,17 @@ export default class FreeDocument extends Document {
         color: 'inherit',
         textDecoration: 'none'
       },
+      ' p:first-child': {
+        marginTop: 0
+      },
+      ' p:last-child', {
+        marginBottom: 0
+      },
       ' *': {
         boxSizing: 'border-box'
+      },
+      '@media screen and (max-width: 600px)': {
+        fontSize: '16px'
       }
     })
 

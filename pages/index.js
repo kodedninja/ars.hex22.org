@@ -13,7 +13,15 @@ if (typeof window !== 'undefined') {
 }
 
 export default function Home({ content }) {
-  const wrapperCss = cxs({ maxWidth: '1000px', marginLeft: 'auto', marginRight: 'auto', padding: '4.0rem'})
+  const wrapperCss = cxs({
+    maxWidth: '1000px',
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    padding: '4.0rem',
+    '@media screen and (max-width: 600px)': {
+      padding: '2.0rem'
+    }
+  })
   return (
     <div className={wrapperCss}>
       <Head>
