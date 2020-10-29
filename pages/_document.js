@@ -20,7 +20,7 @@ export default class FreeDocument extends Document {
       ' p:first-child': {
         marginTop: 0
       },
-      ' p:last-child', {
+      ' p:last-child': {
         marginBottom: 0
       },
       ' *': {
