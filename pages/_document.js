@@ -26,6 +26,15 @@ export default class FreeDocument extends Document {
       ' *': {
         boxSizing: 'border-box'
       },
+      ' img': {
+        width: '100%'
+      },
+      '@media screen and (min-width: 1200px)':{
+        ' img': {
+          width: '140%',
+          marginLeft: '-20%'
+        }
+      },
       '@media screen and (max-width: 600px)': {
         fontSize: '16px'
       }

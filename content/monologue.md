@@ -46,3 +46,7 @@ ott vagyok a látóhatár vibráló egyenesén
 és magamra veszem mindazt a szenvedést,
 amit az emlékedben ártatlan én levetkőzött.
 
+<div class="pb1"></div>
+
+![Zöld, mohaszerű zaj egy alulexponált film és a scanner duettjében](/images/noise.jpeg)
+
